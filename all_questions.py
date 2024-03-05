@@ -98,13 +98,13 @@ def question3():
     answers = {}
 
     # type: a string that evaluates to a float
-    answers["(a) SSE"] = 800
+    answers["(a) SSE"] = "4*R^2"
 
     # type: a string that evaluates to a float
-    answers["(b) SSE"] = 200
+    answers["(b) SSE"] = "4*(a^2+b^2+r^2)"
 
     # type: a string that evaluates to a float
-    answers["(c) SSE"] = 1000
+    answers["(c) SSE"] = "10*R^2"
 
     return answers
 
